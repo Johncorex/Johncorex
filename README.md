@@ -17,6 +17,7 @@ Sou apaixonado por **Aprender**, **Tecnologia** e **Resolver problemas**.  ðŸ’»ð
   <img src="https://img.shields.io/badge/-C%2B%2B-lightgrey"> &nbsp; &nbsp;
   <img src="https://img.shields.io/badge/-MySQL-lightgrey"/> &nbsp; &nbsp;
   <img src="https://img.shields.io/badge/-PHP-lightgrey"/> &nbsp; &nbsp;
+  <img src="https://img.shields.io/badge/-VS Code-lightgrey"/> &nbsp; &nbsp;
  
 </p>
 
