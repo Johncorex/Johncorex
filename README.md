@@ -30,7 +30,7 @@ Sou apaixonado por **Aprender**, **Tecnologia** e **Resolver problemas**.  ðŸ’»ð
   <img align="center" src="https://github-readme-stats.vercel.app/api?username=Johncorex&show_icons=true&theme=dark" />
 </a>
 <a href="https://github.com/anuraghazra/convoychat">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Johncorex&layout=compact&hide_border=true" />
+  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Johncorex&layout=compact&hide_border=true&theme=dark" />
 </a>
 
 
