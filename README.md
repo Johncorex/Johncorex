@@ -38,4 +38,3 @@ Sou apaixonado por **Aprender**, **Tecnologia** e **Resolver problemas**.  💻�
 ### Entre em contato 👇🏼
 
 [![Gmail Badge](https://img.shields.io/badge/-glauber.dev2022@gmail.com-D14836?style=flat-square&logo=Gmail&logoColor=white&link=mailto:glauber.dev2022@gmail.com)](mailto:glauber.dev2022@gmail.com)
-<a href="https://www.linkedin.com/in/glauber-johnes-243322219/" target="_blank" rel="nofollow"><img align="left" alt="LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" /> </a>
